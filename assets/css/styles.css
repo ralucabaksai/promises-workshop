@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+}
+
+button,
+input {
+  display: block;
+  margin: 10px;
+}
+
+.paragraph-list {
+  border-top: 1px solid lightgray;
+  min-width: 1px;
+}
+
+.chose-render-type {
+  display: flex;
+}
+
+.input-container {
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+.input-container p {
+  margin: 0;
+  font-size: 12px;
+}
